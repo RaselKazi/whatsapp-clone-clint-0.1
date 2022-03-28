@@ -1,5 +1,5 @@
 
-# e-shop-bd
+# WhatsApp 
 
 
 WhatsApp is a responsive MERN Stack Chat application
@@ -24,8 +24,6 @@ WhatsApp is a responsive MERN Stack Chat application
 ![](https://github.com/RaselKazi/RaselKazi-Protfolio-1.0/blob/main/public/image/projects/nextchat.png) 
 
 
-
-Note: Only admin user have ability to view admin dashboard.
 
 
 
