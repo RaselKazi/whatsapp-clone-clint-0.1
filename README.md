@@ -19,7 +19,7 @@ WhatsApp is a responsive MERN Stack Chat application
 
 
 
-## :arrow_forward: E Market
+## :arrow_forward: WhatsApp
 ---
 ![](https://github.com/RaselKazi/RaselKazi-Protfolio-1.0/blob/main/public/image/projects/nextchat.png) 
 
